@@ -25,9 +25,9 @@ This portfolio website is built using React to showcase my skills, projects, and
 ## Technologies Used
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React Logo" width="50" height="50"> React
-- HTML5
-- CSS3
-- JavaScript
+- <img src="https://img.icons8.com/color/452/html-5.png" alt="HTML5 Logo" width="50" height="50"> HTML5
+- <img src="https://img.icons8.com/color/452/css3.png" alt="CSS3 Logo" width="50" height="50"> CSS3
+- <img src="https://img.icons8.com/color/452/javascript.png" alt="JavaScript Logo" width="50" height="50"> JavaScript
 - [Netlify](https://www.netlify.com/) for deployment
 
 ## Installation
