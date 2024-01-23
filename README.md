@@ -1,4 +1,4 @@
-x# React Portfolio Website
+# React Portfolio Website
 
 This is the repository for my personal portfolio website built with React. You can view the deployed website [here](https://ksvreddy-portfolio.netlify.app/).
 
