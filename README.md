@@ -24,7 +24,7 @@ This portfolio website is built using React to showcase my skills, projects, and
 
 ## Technologies Used
 
-- React
+- ![React Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png) React
 - HTML5
 - CSS3
 - JavaScript
