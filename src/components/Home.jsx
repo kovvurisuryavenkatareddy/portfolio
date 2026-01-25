@@ -36,6 +36,8 @@ const Home = () => {
           <img 
             src={HeroImage}
             alt="my profile"
+            loading="eager"
+            decoding="async"
             className="rounded-2xl mx-auto w-2/3 md:w-full"
           />
         </div>
