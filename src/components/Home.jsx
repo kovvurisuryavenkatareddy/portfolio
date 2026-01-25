@@ -7,17 +7,16 @@ const Home = () => {
   return (
     <div
       name="home"
-      className="w-full h-screen bg-gradient-to-b from-black via-black to-gray-800"
+      className="w-full min-h-screen pt-24 pb-20"
     >
-      <div className=" max-w-screen-lg mx-auto flex flex-col md:flex-row items-center justify-center h-full px-4">
-        <div className="flex flex-col justify-center h-full">
+      <div className="max-w-screen-lg mx-auto flex flex-col md:flex-row items-center justify-start px-4 pt-10 gap-10">
+        <div className="flex flex-col justify-center md:translate-y-14">
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
             I'm a Full Stack Developer
           </h2>
-          <p className="text-gray-500 py-4 max-w-md">
-            I have 1 years of experience building and desgining software.
-            Currently, I love to work on web application using technologies like
-            React, Tailwind, Html and Css.
+          <p className="text-slate-300 py-4 max-w-md leading-relaxed">
+            Full Stack Developer with hands-on experience building responsive web applications and scalable APIs.
+            I work with React, Tailwind CSS, Node.js/Express, and modern databases like Supabase and Firebase.
           </p>
           <div>
             <Link
@@ -33,7 +32,7 @@ const Home = () => {
             </Link>
           </div>
         </div>
-        <div>
+        <div className="md:translate-y-14">
           <img 
             src={HeroImage}
             alt="my profile"
