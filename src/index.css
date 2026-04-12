@@ -21,4 +21,11 @@
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
     }
+
+    /* Hide native cursor on fine-pointer (mouse) devices — replaced by CustomCursor */
+    @media (pointer: fine) {
+        *, *::before, *::after {
+            cursor: none !important;
+        }
+    }
 }
